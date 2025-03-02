@@ -7,7 +7,7 @@
 ## Thanox
 **Thanox**的名字灵感来自(The name of **Thanox** is inspired by) [Thanos😈](https://en.wikipedia.org/wiki/Thanos) + [Xposed🧩](https://en.wikipedia.org/wiki/Xposed) 
 
-当前已支持使用Shizuku激活（功能较少），激活后变身为Thanos。
+当前已支持使用Shizuku激活（功能较少），激活后变身为Thanos。frjjd
 r
 ## 文档 (Documents)
 
